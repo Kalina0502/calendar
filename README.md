@@ -1,7 +1,7 @@
 ```markdown
-# 📅 ICT Calendar
+# 📅 Calendar
 
-**ICT Calendar** is a responsive, dynamic calendar web application that synchronizes with Google Calendar and provides an interactive user interface for viewing and managing events. Built using FullCalendar.js, Express.js, and the Google Calendar API, it offers real-time integration and a rich UI experience.
+** Calendar** is a responsive, dynamic calendar web application that synchronizes with Google Calendar and provides an interactive user interface for viewing and managing events. Built using FullCalendar.js, Express.js, and the Google Calendar API, it offers real-time integration and a rich UI experience.
 
 ---
 
